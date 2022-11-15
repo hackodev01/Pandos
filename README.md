@@ -9,6 +9,9 @@
 
 Music platforms such as Spotify and Apple Music take a large percentage of royalties from their own artists. Which we believe should not be the case. Musicians are expected to enjoy the majority of their work. Aside from that, these platforms have the censor your content anytime they want. Music, podcasts, and similar content should be owned and controlled by the user. It should not be taken over by a third party.
 
+## AIM
+Gitcoin Storage Wizard by IPFS/Filecoin.
+
 ## Dapp Working
 
 Pandos is a decentralized music, podcast and online radio platform built on IPFS that offers the ability to upload, stream and play music. The goal is to create a free decentralized version music platform which artists get paid directly through listener support.
